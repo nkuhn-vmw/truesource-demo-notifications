@@ -1,0 +1,6 @@
+# Intentionally old images: a TrueSource Viewer demo, do not run.
+services:
+  queue:
+    image: rabbitmq:3.9-management
+  cache:
+    image: redis:6.0

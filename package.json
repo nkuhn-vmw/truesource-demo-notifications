@@ -1,0 +1,16 @@
+{
+  "name": "truesource-demo-notifications",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable demo for TrueSource Viewer; do not install.",
+  "dependencies": {
+    "@ctrl/tinycolor": "4.1.1",
+    "nodemailer": "6.4.15",
+    "socket.io": "2.3.0",
+    "handlebars": "4.5.3",
+    "express": "4.17.3"
+  },
+  "devDependencies": {
+    "nx": "21.5.0"
+  }
+}
